@@ -2,7 +2,7 @@
 
 ### COVID-19-images-Segmentation
 
-<img src="https://github.com/ThirteenYue/ERGP-Net/blob/master/ergpnet.png" width="60%" height="60%" />
+<img src="https://github.com/ThirteenYue/ERGP-Net/blob/master/ergpnet.png" width="75%" height="75%" />
 
 *COVID-19 CXR data can be found at:
 
