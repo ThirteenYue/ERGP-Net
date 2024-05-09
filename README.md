@@ -2,7 +2,7 @@
 
 ### COVID-19-images-Segmentation
 <p align="center">
-  <img src="https://github.com/ThirteenYue/ERGP-Net/blob/master/ergpnet.png" width="75%" height="75%" />
+  <img src="https://github.com/ThirteenYue/ERGP-Net/blob/master/ergpnet.png" width="50%" height="50%" />
 </p>
 
 
